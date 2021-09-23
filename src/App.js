@@ -5,7 +5,9 @@ const word = "Hello";
 function App() {
     return (
         <div>
-            <WordCard value="hello 062" />
+          <center>
+              <WordCard value="hello 062" />
+            </center>
         </div>
     );
 } export default App;
